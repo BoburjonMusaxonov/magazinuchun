@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.rasmga {
+  background-image: url(./images/1626815300_9-kartinkin-com-p-anime-fon-torgovii-tsentr-anime-krasivo-11.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.orabturuvchi {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-top: 100px;
+}
+.look1 {
+  background-color: rgb(148, 240, 140);
+  color: black;
+  font-size: 16px;
+  border: none;
+  padding: 10px 35px;
+}
+.look2 {
+  background-color: rgb(148, 240, 140);
+  color: black;
+  font-size: 16px;
+  border: none;
+  padding: 10px 35px;
+}
+.look3 {
+  background-color: rgb(148, 240, 140);
+  color: black;
+  font-size: 16px;
+  border: none;
+  padding: 10px 35px;
+}
